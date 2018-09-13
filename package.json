@@ -16,5 +16,6 @@
     "demo"
   ],
   "author": "Moi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/doudbanks/NodeJS"
 }
