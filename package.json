@@ -1,0 +1,20 @@
+{
+  "name": "demo-npm",
+  "version": "0.0.1",
+  "description": "Super demo",
+  "main": "index.js",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "npm",
+    "demo"
+  ],
+  "author": "Moi",
+  "license": "MIT"
+}
